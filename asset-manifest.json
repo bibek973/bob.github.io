@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TD-React-Challenge-Test-1/static/css/main.735c6169.chunk.css",
+    "main.js": "/TD-React-Challenge-Test-1/static/js/main.ad342aeb.chunk.js",
+    "main.js.map": "/TD-React-Challenge-Test-1/static/js/main.ad342aeb.chunk.js.map",
+    "runtime-main.js": "/TD-React-Challenge-Test-1/static/js/runtime-main.43ab0407.js",
+    "runtime-main.js.map": "/TD-React-Challenge-Test-1/static/js/runtime-main.43ab0407.js.map",
+    "static/js/2.88298884.chunk.js": "/TD-React-Challenge-Test-1/static/js/2.88298884.chunk.js",
+    "static/js/2.88298884.chunk.js.map": "/TD-React-Challenge-Test-1/static/js/2.88298884.chunk.js.map",
+    "index.html": "/TD-React-Challenge-Test-1/index.html",
+    "precache-manifest.86a78ff03eeb614a49e257e3481bee18.js": "/TD-React-Challenge-Test-1/precache-manifest.86a78ff03eeb614a49e257e3481bee18.js",
+    "service-worker.js": "/TD-React-Challenge-Test-1/service-worker.js",
+    "static/css/main.735c6169.chunk.css.map": "/TD-React-Challenge-Test-1/static/css/main.735c6169.chunk.css.map",
+    "static/js/2.88298884.chunk.js.LICENSE.txt": "/TD-React-Challenge-Test-1/static/js/2.88298884.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43ab0407.js",
+    "static/js/2.88298884.chunk.js",
+    "static/css/main.735c6169.chunk.css",
+    "static/js/main.ad342aeb.chunk.js"
+  ]
+}
